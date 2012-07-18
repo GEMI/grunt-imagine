@@ -1,6 +1,12 @@
 # grunt-imagine
 
-Use [@cowboys](https://github.com/cowboy) js based optimizer [grunt](https://github.com/cowboy/grunt) to optimize (and or inline) your projects image resources.
+grunt-imagine is a [Grunt](https://github.com/cowboy/grunt) plugin that will help you to optimize your images. Furthermore, grunt-imagine can encode images into _base64_ strings and place them directly within your CSS. Supported formats: PNG, JPG and GIF. 
+
+### Why use grunt-imagine?
+
+Image optimization is the most time-efficient and cost-efficient way to speed up your web pages or web applications. 
+However, for different image formats different tools are required and for larger projects this process can easily become a time consuming chore.
+grunt-imagine will automate this task and guarantee that your production images are as optimized as your production code.
 
 [![Build Status](https://secure.travis-ci.org/asciidisco/grunt-imagine.png?branch=master)](http://travis-ci.org/asciidisco/grunt-imagine)
 

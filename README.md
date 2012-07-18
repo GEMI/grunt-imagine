@@ -1,12 +1,12 @@
 # grunt-imagine
 
-grunt-imagine is a [Grunt](https://github.com/cowboy/grunt) plugin that will help you to optimize your images. Furthermore, grunt-imagine can encode images into _base64_ strings and place them directly within your CSS. Supported formats: PNG, JPG and GIF. 
+**grunt-imagine** is a [Grunt](https://github.com/cowboy/grunt) plugin that will help you to optimize your images. Furthermore, **grunt-imagine** can encode images into _base64_ strings and place them directly within your CSS. Supported formats: PNG, JPG and GIF. 
 
 ### Why use grunt-imagine?
 
 Image optimization is the most time-efficient and cost-efficient way to speed up your web pages or web applications. 
 However, for different image formats different tools are required and for larger projects this process can easily become a time consuming chore.
-grunt-imagine will automate this task and guarantee that your production images are as optimized as your production code.
+**grunt-imagine** will automate this task and guarantee that your production images are as optimized as your production code.
 
 [![Build Status](https://secure.travis-ci.org/asciidisco/grunt-imagine.png?branch=master)](http://travis-ci.org/asciidisco/grunt-imagine)
 
@@ -26,7 +26,7 @@ If you want to use the pngmin, jpgmin, gifmin or pngnq tasks,
 you need to have some third party tools installed & in your global PATH:
 
 It is enough if you have one tool per task installed,
-but if you provide more of them, grunt-imagine will recognize that
+but if you provide more of them, **grunt-imagine** will recognize that
 and will try to use them, if they´ll help to shrink the filesize.
 
 Note: I will add more tools to the chain in the future,

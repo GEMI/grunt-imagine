@@ -13,7 +13,8 @@ However, for different image formats different tools are required and for larger
 ## Getting Started
 
 ### Plugin installation
-Install this grunt plugin next to your project's [grunt.js gruntfile][getting_started] with: `npm install grunt-imagine`
+To install **grunt-imagine** simply navigate to your [Grunt](https://github.com/cowboy/grunt) project root folder and run:
+    `npm install grunt-imagine`
 
 Then add this line to your project's `grunt.js` gruntfile.
 
